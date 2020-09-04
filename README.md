@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+title: Test Title
 # Hi Everyone! 
 # Welcome to Topp's GitHub Profile
 
