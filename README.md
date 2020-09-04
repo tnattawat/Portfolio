@@ -1,5 +1,5 @@
 # Hi Everyone! 
-# Welcome to Topp Theeralerttham's GitHub Profile
+# Welcome to Topp's GitHub Profile
 
 ## On this page I keep all of the projects I do at DataCamp.com
 
