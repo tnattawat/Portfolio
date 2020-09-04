@@ -1,8 +1,8 @@
 # Hi Everyone! 
 # Welcome to Topp's GitHub Profile
 
-<a href="https://www.youtube.com/c/KenJee1"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="110"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/topp-theeralerttham-54743264/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="110"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/"><img 
-src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/KenJee1"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="110"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/topp-theeralerttham-54743264/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="110"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="27"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/"><img 
+src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="32"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---------------
 
