@@ -1,6 +1,8 @@
 # Hi Everyone! 
 # Welcome to Topp's GitHub Profile
 
+logo: [https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png]
+
 <a href="https://www.youtube.com/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/"><img
 src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing"
 width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/"><img 
