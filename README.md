@@ -8,7 +8,7 @@ src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo
 
 ---------------
 
-# Data Science Projects
+# Data Science @DataCamp.com 
 
 # [Project #1: TV, Halftime Shows, and the Big Game (Click!)](https://github.com/tnattawat/Topp/blob/master/Project1/notebook.ipynb) 
 ![](assets/img/Capture.JPG)
