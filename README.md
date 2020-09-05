@@ -1,7 +1,7 @@
 # Hi Everyone! 
 # Welcome to Topp's GitHub Profile
 
-<a href="https://www.youtube.com"><img src="assets/img/YouTube%20Logo.png" alt="drawing" width="75"/>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/topp-theeralerttham-54743264/"><img src="assets/img/Linkedin%20Logo.png" alt="drawing" width="70"/> &nbsp;&nbsp;&nbsp;<a href="https://tnattawat.github.io/Portfolio/"><img src="assets/img/Github%20Logo.png" alt="drawing" width="60"/>&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/"><img src="assets/img/Kaggle%20Logo.png" alt="drawing" width="50"/>
+<a href="https://tnattawat.github.io/Portfolio/"><img src="assets/img/Github%20Logo.png" alt="drawing" width="60"/>&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/"><img src="assets/img/Kaggle%20Logo.png" alt="drawing" width="50"/>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com"><img src="assets/img/YouTube%20Logo.png" alt="drawing" width="75"/>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/topp-theeralerttham-54743264/"><img src="assets/img/Linkedin%20Logo.png" alt="drawing" width="70"/> 
 
 ---------------
 
