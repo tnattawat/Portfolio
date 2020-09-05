@@ -1,7 +1,7 @@
 # Hi Everyone! 
 # Welcome to Topp's GitHub Profile
 
-<a href="https://www.youtube.com"><img src="https://github.com/tnattawat/Portfolio/blob/master/assets/img/YouTube%20Logo.png" alt="drawing" width="130"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/topp-theeralerttham-54743264/"><img src="https://github.com/tnattawat/Portfolio/blob/master/assets/img/Linkedin%20Logo.png" alt="drawing" width="125"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tnattawat.github.io/Portfolio/"><img src="https://github.com/tnattawat/Portfolio/blob/master/assets/img/Github%20Logo.png" alt="drawing" width="125"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/"><img src="https://github.com/tnattawat/Portfolio/blob/master/assets/img/Kaggle%20Logo.png" alt="drawing" width="83"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com"><img src="https://github.com/tnattawat/Portfolio/blob/master/assets/img/YouTube%20Logo.png" alt="drawing" width="140"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/topp-theeralerttham-54743264/"><img src="https://github.com/tnattawat/Portfolio/blob/master/assets/img/Linkedin%20Logo.png" alt="drawing" width="135"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tnattawat.github.io/Portfolio/"><img src="https://github.com/tnattawat/Portfolio/blob/master/assets/img/Github%20Logo.png" alt="drawing" width="125"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/"><img src="https://github.com/tnattawat/Portfolio/blob/master/assets/img/Kaggle%20Logo.png" alt="drawing" width="83"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png
