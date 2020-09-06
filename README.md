@@ -17,7 +17,7 @@ The dataset used in this project was scraped and polished from Wikipedia. It is 
 # Training Milestones & Certficates
 ## 1. DataCamp
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/5bb2a0f8da6581f8e193b1d8175e0a4a38bcf450"><img src="assets/cert/Cert6.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/efb6d01ce9a8cd9f43f3d2f618eca39f1db61d41"><img src="assets/cert/Cert1.PNG" alt="drawing" width="200"/>&nbsp;&nbsp;
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/efb6d01ce9a8cd9f43f3d2f618eca39f1db61d41"><img src="assets/cert/Cert1.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/Cert4_n.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
   
 ## 2. Google & Facebook
