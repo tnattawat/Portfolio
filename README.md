@@ -21,6 +21,6 @@ The dataset used in this project was scraped and polished from Wikipedia. It is 
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/Cert4_n.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
   
 ## 2. Google & Facebook
+<a href="https://analytics.google.com/analytics/academy/certificate/F84hMIYtTluVjyuc4kbrvQ"><img src="assets/cert/Cert2.jpg" alt="drawing" width="165"/>&nbsp;&nbsp;
 <a href="https://learndigital.withgoogle.com/link/1qsdpcedm9s"><img src="assets/cert/Cert3_o.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
-<a href="https://analytics.google.com/analytics/academy/certificate/F84hMIYtTluVjyuc4kbrvQ"><img src="assets/cert/Cert2.jpg" alt="drawing" width="150"/>&nbsp;&nbsp;
 <a href="https://www.youracclaim.com/badges/1c2a64a3-1bab-4bed-8058-f9896b797821?source=linked_in_profile"><img src="assets/cert/Digital_Marketing.png" alt="drawing" width="155"/>&nbsp;&nbsp;
