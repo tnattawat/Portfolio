@@ -23,8 +23,6 @@ The dataset used in this project was scraped and polished from Wikipedia. It is 
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/a3212b8f5b5c06ad652446ffaca509b960c4a339"><img src="assets/cert/C5.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/a3212b8f5b5c06ad652446ffaca509b960c4a339"><img src="assets/cert/11.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/a1827e2ec40f8a3a5df3a7957a04fb3bbce6703f"><img src="assets/cert/10.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
-
-
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C3.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C2.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C1.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
