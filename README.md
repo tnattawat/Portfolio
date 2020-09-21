@@ -16,12 +16,12 @@ The dataset used in this project was scraped and polished from Wikipedia. It is 
 
 # Skills & Certficates
 ## 1. DataCamp
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/a1827e2ec40f8a3a5df3a7957a04fb3bbce6703f"><img src="assets/cert/10.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/a3212b8f5b5c06ad652446ffaca509b960c4a339"><img src="assets/cert/11.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/Cert7.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/5bb2a0f8da6581f8e193b1d8175e0a4a38bcf450"><img src="assets/cert/Cert8.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/efb6d01ce9a8cd9f43f3d2f618eca39f1db61d41"><img src="assets/cert/Cert1.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/Cert4_n.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/a1827e2ec40f8a3a5df3a7957a04fb3bbce6703f"><img src="assets/cert/10.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/a3212b8f5b5c06ad652446ffaca509b960c4a339"><img src="assets/cert/11.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/Cert7.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C3.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C2.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C1.jpg" alt="drawing" width="200"/>&nbsp;&nbsp;
