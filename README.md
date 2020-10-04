@@ -14,6 +14,18 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
 
 The dataset used in this project was scraped and polished from Wikipedia. It is made up of three CSV files, one with game data, one with TV data, and one with halftime musician data for all 52 Super Bowls through 2018.
 
+# [Project #2: The Android App Market on Google Play (Click!)]
+(https://github.com/tnattawat/Topp/blob/master/Project2/notebook.ipynb) 
+![](assets/img/Capture2.JPG)
+
+Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. With data scraped from the Google Play Store, this project will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. You'll find insights in the data to devise strategies to drive growth and retention such as:
+* Does the size and price of an app affect its rating?
+* Do users really care about system-heavy apps or do they prefer light-weighted apps?
+* Do users always prefer free apps over paid apps (sentiment analysis of user reviews)?
+* Is there a relation between app category and app price?
+
+The data for this project was scraped from the Google Play Store. It is made up of two CSV files, one contains details of the applications on Google Play, and one contains 100 reviews for each app with three features: Sentiment (Positive, Negative or Neutral), Sentiment Polarity and Sentiment Subjectivity. While there are many popular datasets for Apple App Store, there aren't many for Google Play apps, which is partially due to the increased difficulty in scraping the latter as compared to the former.
+
 # Skills & Certficates
 ## 1. DataCamp
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/Cert4_n.jpg" alt="drawing" width="200"/>&nbsp;
