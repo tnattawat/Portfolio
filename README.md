@@ -15,7 +15,7 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
 The dataset used in this project was scraped and polished from Wikipedia. It is made up of three CSV files, one with game data, one with TV data, and one with halftime musician data for all 52 Super Bowls through 2018.
 
 # [Project #2: The Android App Market on Google Play (Click!)](https://github.com/tnattawat/Topp/blob/master/Project1/notebook.ipynb)
-![](assets/img/Capture2.JPG)
+![](assets/img/Capture2.PNG)
 
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. With data scraped from the Google Play Store, this project will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. You'll find insights in the data to devise strategies to drive growth and retention such as:
 * Does the size and price of an app affect its rating?
