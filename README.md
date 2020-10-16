@@ -23,6 +23,8 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 * Do users always prefer free apps over paid apps (sentiment analysis of user reviews)?
 * Is there a relation between app category and app price?
 
+The data was scraped from the Google Play website. The data files include 'apps.csv' containing 13 features that describe apps on Google Play, and 'user_reviews.csv' containing 100 reviews for each app.
+
 # [Project #3: The GitHub History of the Scala Language (Click!)](https://github.com/tnattawat/Topp/blob/master/Project3/notebook.ipynb)
 ![](assets/img/project3.PNG)
 
