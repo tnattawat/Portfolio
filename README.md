@@ -24,7 +24,7 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 * Is there a relation between app category and app price?
 
 # [Project #3: The GitHub History of the Scala Language (Click!)](https://github.com/tnattawat/Topp/blob/master/Project3/notebook.ipynb)
-![](assets/images/project3.PNG)
+![](assets/img/project3.PNG)
 
 Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. This project takes the challenge to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years. Scala is a mature language. You will find the answers to fun questions like:
 * Who are the experts in the history of Scala?
