@@ -23,7 +23,16 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 * Do users always prefer free apps over paid apps (sentiment analysis of user reviews)?
 * Is there a relation between app category and app price?
 
-The dataset was scraped from the Google Play Store. It is made up of two CSV files, one contains details of the applications on Google Play, and one contains 100 reviews for each app with three features: Sentiment (Positive, Negative or Neutral), Sentiment Polarity and Sentiment Subjectivity.
+# [Project #3: The GitHub History of the Scala Language (Click!)](https://github.com/tnattawat/Topp/blob/master/Project3/notebook.ipynb)
+![](assets/Images/project3.PNG)
+
+Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. This project takes the challenge to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years. Scala is a mature language. You will find the answers to fun questions like:
+* Who are the experts in the history of Scala?
+* Who has had the most influence on its development?
+* Is there camaraderie in the Scala project?
+* What do the contributions of two biggest developers look like?
+
+The dataset includes the project history of Scala retrieved from Git and GitHub as a set of CSV files.
 
 # Skills & Certficates
 ## 1. DataCamp
