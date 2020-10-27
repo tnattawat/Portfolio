@@ -36,6 +36,18 @@ Open source projects contain entire development histories, such as who made chan
 
 The dataset includes the project history of Scala retrieved from Git and GitHub as a set of CSV files.
 
+# [Project #4: A Visual History of Nobel Prize Winners (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Portfolio/blob/master/Project4/notebook.ipynb)
+![](Project3/images/project4.PNG)
+
+The Nobel Prize is perhaps the world's most well known scientific award. Every year it is given to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace. This project uses data manipulation and visualization libraries in Python to explore patterns and trends over 100 years worth of Nobel Prize winners. You will find out the following:
+* what characteristics do the prize winners have? 
+* What are age differences between prize categories?
+* Has anybody gotten it twice?
+* Which country gets it most often? 
+
+The dataset used in this project is from The Nobel Foundation on Kaggle.
+
+
 # Skills & Certficates
 ## 1. DataCamp
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/Cert4_n.jpg" alt="drawing" width="200"/>&nbsp;
