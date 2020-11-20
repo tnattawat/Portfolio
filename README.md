@@ -47,6 +47,9 @@ The Nobel Prize is perhaps the world's most well known scientific award. Every y
 
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
+# Other Data Projects
+# [Project #1: Predicting Loan Risk using SparkML on IBM Cloud Pak for Data as a Service (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Topp/blob/master/P1/notebook.ipynb) 
+
 
 # Skills & Certficates
 ## 1. DataCamp
