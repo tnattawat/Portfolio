@@ -56,7 +56,7 @@ This project will create a machine learning model to predict customer churn. It 
 * Build a predictive model with SparkML API
 * Save the model in the ML repository
 
-This project is part of IBM Digital Developer Conference 2020 on Data & AI.
+This project is part of my training at IBM Digital Developer Conference 2020 on Data & AI.
 
 # Skills & Certficates
 ## 1. DataCamp
