@@ -48,8 +48,14 @@ The Nobel Prize is perhaps the world's most well known scientific award. Every y
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
 # Other Data Projects
-# [Project #1: Predicting Loan Risk using SparkML on IBM Cloud Pak for Data as a Service (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Topp/blob/master/P1/notebook.ipynb) 
+# [Project #1: Predicting Loan Risk using SparkML on IBM Cloud Pak for Data as a Service (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Topp/blob/master/P1/machinelearning-creditrisk-sparkmlmodel.ipynb) 
 
+This project will create a machine learning model to predict customer churn. It will build the prediction model using the SparkML library, and walk you through these steps:
+* Load and Visualize data set.
+* Build a predictive model with SparkML API
+* Save the model in the ML repository
+
+This project is part of IBM Digital Developer Conference 2020 on Data & AI.
 
 # Skills & Certficates
 ## 1. DataCamp
