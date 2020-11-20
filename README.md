@@ -49,6 +49,7 @@ The dataset used in this project is from The Nobel Foundation on Kaggle.
 
 # Other Data Projects
 # [Project #1: Predicting Loan Risk using SparkML on IBM Cloud Pak for Data as a Service (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Topp/blob/master/P1/machinelearning-creditrisk-sparkmlmodel.ipynb) 
+![](P1/images/social.png)
 
 This project will create a machine learning model to predict customer churn. It will build the prediction model using the SparkML library, and walk you through these steps:
 * Load and Visualize data set.
