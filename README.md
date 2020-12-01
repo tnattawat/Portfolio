@@ -47,6 +47,17 @@ The Nobel Prize is perhaps the world's most well known scientific award. Every y
 
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
+# [Project #5: The Discovery of Handwashing (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Portfolio/blob/master/Project5/notebook.ipynb)
+![](Project5/images/Project5.PNG)
+
+In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives. This project will reanalyze the medical data Semmelweis collected and answer the following questions:
+* What were the proportions of deaths before and after Semmelweis made handwashing obligatory?
+* Did more handwashing lead to fewer deaths?
+* How much did handwashing reduce the monthly proportion of deaths on average?
+* What is the confidence interval?
+
+The dataset used in this project is from one of the most important discoveries of modern medicine: handwashing.
+
 # Data Projects in the Real World
 # [Project #1: Predicting Loan Risk using SparkML on IBM Cloud (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Topp/blob/master/P1/machinelearning-creditrisk-sparkmlmodel.ipynb) 
 ![](P1/images/social.png)
