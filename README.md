@@ -58,8 +58,8 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: 
 
 The dataset used in this project is from one of the most important discoveries of modern medicine: handwashing.
 
-# [Project #6: Predicting Credit Card Approvals (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Portfolio/blob/master/Project6/notebook.ipynb)
-![](Project6/images/Capture.PNG)
+# [Project #6: Predicting Credit Card Approvals (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Portfolio/blob/master/project6/notebook.ipynb)
+![](project6/images/Capture.PNG)
 
 Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project builds an automatic credit card approval predictor using machine learning techniques, just like the real banks do. 
 
