@@ -90,7 +90,7 @@ This project is part of my training at IBM Digital Developer Conference 2020 on 
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C1.jpg" alt="drawing" width="200"/>&nbsp;
 
 ## 2. Institutions in Thailand
-<a href="https://analytics.google.com/analytics/academy/certificate/F84hMIYtTluVjyuc4kbrvQ"><img src="assets/cert/certificate_Chula.jpg" alt="drawing" width="180"/>&nbsp;
+<a href="https://github.com/tnattawat/Portfolio/blob/master/assets/cert/certificate_Chula.jpg?raw=true"><img src="assets/cert/certificate_Chula.jpg" alt="drawing" width="180"/>&nbsp;
 
 ## 3. Google & Facebook
 <a href="https://analytics.google.com/analytics/academy/certificate/F84hMIYtTluVjyuc4kbrvQ"><img src="assets/cert/Cert2.jpg" alt="drawing" width="180"/>&nbsp;
