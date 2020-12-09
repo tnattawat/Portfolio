@@ -65,7 +65,7 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 
 The dataset is the Credit Card Approval dataset from the UCI Machine Learning Repository.
 
-# [Project #7: School Budgeting with Machine Learning (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Portfolio/blob/master/project7/notebook.ipynb )
+# [Project #7: School Budgeting with Machine Learning (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Portfolio/blob/master/project7/notebook.ipynb)
 Data science isn't just for predicting ad-clicks-it's also useful for social impact! This project explores a problem related to school district budgeting. By building a model to automatically classify items in a school's budget, it makes it easier and faster for schools to compare their spending with other schools. It uses natural language processing to prepare the budgets for modeling and applies different techniques to make the model most accurate.
 
 # Data Projects in the Real World
