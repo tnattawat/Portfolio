@@ -84,7 +84,7 @@ Data science isn't just for predicting ad-clicks-it's also useful for social imp
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/a1827e2ec40f8a3a5df3a7957a04fb3bbce6703f"><img src="assets/cert/10.jpg" alt="drawing" width="200"/>&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C2.jpg" alt="drawing" width="200"/>&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C1.jpg" alt="drawing" width="200"/>&nbsp;
-<a href="https://github.com/tnattawat/Portfolio/blob/master/assets/cert/certificate_Chula.jpg?raw=true"><img src="assets/cert/certificate_Chula.jpg" alt="drawing" width="180"/>&nbsp;
-<a href="https://www.youracclaim.com/badges/1c2a64a3-1bab-4bed-8058-f9896b797821?source=linked_in_profile"><img src="assets/cert/Digital_Marketing.png" alt="drawing" width="155"/>&nbsp;
 <a href="https://analytics.google.com/analytics/academy/certificate/F84hMIYtTluVjyuc4kbrvQ"><img src="assets/cert/Cert2.jpg" alt="drawing" width="180"/>&nbsp;
 <a href="https://learndigital.withgoogle.com/link/1qsdpcedm9s"><img src="assets/cert/Cert3_o.jpg" alt="drawing" width="200"/>&nbsp;
+<a href="https://github.com/tnattawat/Portfolio/blob/master/assets/cert/certificate_Chula.jpg?raw=true"><img src="assets/cert/certificate_Chula.jpg" alt="drawing" width="180"/>&nbsp;
+<a href="https://www.youracclaim.com/badges/1c2a64a3-1bab-4bed-8058-f9896b797821?source=linked_in_profile"><img src="assets/cert/Digital_Marketing.png" alt="drawing" width="155"/>&nbsp;
