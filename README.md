@@ -80,14 +80,11 @@ This project is part of my training at IBM Digital Developer Conference 2020 on 
 Data science isn't just for predicting ad-clicks-it's also useful for social impact! This project explores a problem related to school district budgeting. By building a model to automatically classify items in a school's budget, it makes it easier and faster for schools to compare their spending with other schools. It uses natural language processing to prepare the budgets for modeling and applies different techniques to make the model most accurate.
 
 # Skills & Certficates
-## 1. Data Science
 <a href="https://www.datacamp.com/statement-of-accomplishment/track/39449176ab49ac2e353df458058748873f2bab22"><img src="assets/cert/DCamp1.jpg" alt="drawing" width="200"/>&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/a1827e2ec40f8a3a5df3a7957a04fb3bbce6703f"><img src="assets/cert/10.jpg" alt="drawing" width="200"/>&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C2.jpg" alt="drawing" width="200"/>&nbsp;
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/8884ec72e6c9c880c7c0e533d6a7a4271175ddb2"><img src="assets/cert/C1.jpg" alt="drawing" width="200"/>&nbsp;
 <a href="https://github.com/tnattawat/Portfolio/blob/master/assets/cert/certificate_Chula.jpg?raw=true"><img src="assets/cert/certificate_Chula.jpg" alt="drawing" width="180"/>&nbsp;
-
-## 2. Google & Facebook
+<a href="https://www.youracclaim.com/badges/1c2a64a3-1bab-4bed-8058-f9896b797821?source=linked_in_profile"><img src="assets/cert/Digital_Marketing.png" alt="drawing" width="155"/>&nbsp;
 <a href="https://analytics.google.com/analytics/academy/certificate/F84hMIYtTluVjyuc4kbrvQ"><img src="assets/cert/Cert2.jpg" alt="drawing" width="180"/>&nbsp;
 <a href="https://learndigital.withgoogle.com/link/1qsdpcedm9s"><img src="assets/cert/Cert3_o.jpg" alt="drawing" width="200"/>&nbsp;
-<a href="https://www.youracclaim.com/badges/1c2a64a3-1bab-4bed-8058-f9896b797821?source=linked_in_profile"><img src="assets/cert/Digital_Marketing.png" alt="drawing" width="155"/>&nbsp;
