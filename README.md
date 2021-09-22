@@ -1,6 +1,6 @@
 # Welcome to Topp's GitHub Profile!
 
-<a href="https://www.youtube.com"><img src="assets/img/YouTube%20Logo.png" alt="drawing" width="83"/>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/topp-theeralerttham-54743264/"><img src="assets/img/Linkedin%20Logo.png" alt="drawing" width="73"/>&nbsp;&nbsp;<a href="https://tnattawat.github.io/Portfolio/"><img src="assets/img/Github%20Logo.png" alt="drawing" width="55"/>&nbsp;&nbsp;<a href="https://www.kaggle.com/topptheeralerttham/"><img src="assets/img/Kaggle%20Logo.png" alt="drawing" width="48"/>
+<a href="https://www.youtube.com"><img src="assets/img/YouTube%20Logo.png" alt="drawing" width="83"/>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nattawat-topp-theeralerttham-54743264/"><img src="assets/img/Linkedin%20Logo.png" alt="drawing" width="73"/>&nbsp;&nbsp;<a href="https://tnattawat.github.io/Portfolio/"><img src="assets/img/Github%20Logo.png" alt="drawing" width="55"/>&nbsp;&nbsp;<a href="https://www.kaggle.com/topptheeralerttham/"><img src="assets/img/Kaggle%20Logo.png" alt="drawing" width="48"/>
 
 # Data Projects
 # [Project #1: TV, Halftime Shows, and the Big Game of Super Bowl (Click!)](https://nbviewer.jupyter.org/github/tnattawat/Topp/blob/master/Project1/notebook.ipynb) 
